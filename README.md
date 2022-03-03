@@ -1,2 +1,1 @@
-# data-mining
 Materials for the Data Mining exam
